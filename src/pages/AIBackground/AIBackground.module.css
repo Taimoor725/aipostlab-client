@@ -1,0 +1,50 @@
+.contentContainer {
+  display: flex;
+
+  min-height: 600px;
+  background: rgba(234, 234, 234, 1);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.styleContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 12px;
+  justify-content: flex-start;
+  gap: 24px;
+  margin-left: 48px;
+}
+
+.styleWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.selectedStylesWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: auto;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.errorText {
+  color: red;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  align-items: center;
+}

@@ -1,0 +1,36 @@
+.container {
+  border: 1px solid black;
+  border-radius: 24px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--background-paper);
+  width: 620px;
+  height: 450px;
+  margin-bottom: 20px;
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%; /* Ensure the container takes full width */
+  height: calc(100% - 60px); /* Adjust height to leave space for buttons */
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageContainer img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  object-fit: contain; /* Ensure the image fits within the container */
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 16px;
+  position: absolute;
+  bottom: 16px;
+}

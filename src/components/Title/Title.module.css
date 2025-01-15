@@ -1,0 +1,53 @@
+/* src/components/Title/Title.module.css */
+
+.titleCard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 1rem; /* Space between title cards */
+  background-color: var(--color-primary-1);
+  color: var(--text-primary); /* Use CSS variable for text color */
+  max-width: 800px;
+  text-align: left;
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px; /* Fixed width */
+  height: 60px; /* Fixed height */
+  background-color: var(--primary-light);
+  border-radius: 50%;
+  margin-right: 1rem; /* Space between icon and text */
+}
+
+.icon {
+  color: var(--text-primary); /* Use CSS variable for icon color */
+  font-size: 1.5rem; /* Adjust icon size as needed */
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1; /* Allow content to take remaining space */
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 1000;
+  font-family: var(--font-family, "Poppins"), sans-serif;
+  white-space: nowrap; /* Prevent title from wrapping */
+  overflow: hidden; /* Hide overflowed text */
+  text-overflow: ellipsis; /* Add ellipsis for overflowed text */
+  color: var(--primary-dark); /* Use CSS variable for title color */
+  margin-bottom: 0.25rem; /* Adjust this value to reduce the gap */
+}
+
+.description {
+  font-size: 0.9rem;
+  color: var(--text-secondary); /* Use CSS variable for description color */
+  font-family: var(--font-family, "Poppins"), sans-serif;
+  margin-top: 0; /* Ensure there's no additional margin on top */
+}

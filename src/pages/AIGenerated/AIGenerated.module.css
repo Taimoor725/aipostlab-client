@@ -1,0 +1,15 @@
+.contentContainer {
+  display: flex;
+  height: 100vh;
+  min-height: 600px;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.selectionGrid {
+  display: flex;
+}

@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  align-items: center;
+
+  margin-left: 24px;
+}
+
+.circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: transparent;
+  margin-right: 16px;
+  border: 6px solid var(--primary);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 28px;
+  margin: 0;
+  color: var(--primary);
+}
+
+.subtitle {
+  font-size: 18px;
+  margin: 0;
+  color: black;
+}

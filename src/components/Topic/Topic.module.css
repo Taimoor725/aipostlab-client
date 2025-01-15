@@ -1,0 +1,54 @@
+/* src/components/Topic/Topic.module.css */
+
+.topicCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+  background-color: var(--color-primary-1);
+  color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  max-width: 250px;
+  text-align: center;
+}
+
+.topicCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.icon {
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+
+.content {
+  padding: 0.5rem 0;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-family, "Poppins"), sans-serif;
+}
+
+.description {
+  font-size: 0.9rem;
+  color: #f1f1f1;
+  font-family: var(--font-family, "Poppins"), sans-serif;
+}

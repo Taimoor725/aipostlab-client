@@ -1,0 +1,40 @@
+.colorPickerContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  max-width: 100%;
+  max-height: 30px;
+  border: 1px solid #ddd;
+  padding: 0.5rem; /* Add padding for better spacing */
+  border-radius: 8px; /* Slightly rounded corners */
+  background-color: rgb(255, 255, 255);
+}
+
+.label {
+  font-size: 0.9rem;
+  color: #666;
+  margin-left: 0.5rem;
+  margin-right: 1rem;
+  flex: 1;
+  font-weight: 600;
+}
+
+.colorDisplay {
+  width: 100px;
+  height: 30px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.colorPicker {
+  position: absolute;
+  z-index: 2;
+  margin-top: 0.5rem;
+}

@@ -1,0 +1,26 @@
+.imageBox {
+  width: 200px; /* Adjust as needed */
+  height: 200px; /* Adjust as needed */
+  background-color: var(--background-paper);
+  margin-top: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryItem {
+  font-size: 40px; /* Adjust as needed to make the icon larger */
+  color: var(--primary);
+}
+
+.galleryItem img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fitImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

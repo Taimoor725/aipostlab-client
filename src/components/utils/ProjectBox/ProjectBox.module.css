@@ -1,0 +1,49 @@
+.contentContainer {
+  display: flex;
+  height: 38vh;
+  min-height: 280px;
+  background: white;
+  overflow: hidden;
+  width: 25%;
+  min-width: 300px;
+  flex-direction: column;
+  margin-top: 48px;
+  margin-left: 48px;
+  border-radius: 24px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.contentParent {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  background-color: var(--background-paper);
+  padding: 24px;
+}
+
+.titleText {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  padding-right: 24px;
+  padding-left: 12px;
+}
+
+.descriptionText {
+  font-size: 18px;
+  margin-bottom: 16px;
+  padding-right: 42px;
+  padding-left: 12px;
+  line-height: 24px;
+}
+
+.imageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.leftAlign {
+  justify-content: flex-start;
+  padding-left: 12px;
+}

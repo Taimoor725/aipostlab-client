@@ -1,0 +1,27 @@
+.contentContainer {
+  display: flex;
+  background-color: var(--background-default); /* Fixed background variable */
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+  align-items: center;
+  height: auto;
+  padding-top: 16px;
+}
+
+.buttonContainer {
+  margin-top: 20px; /* Adds gap above the button */
+}
+
+.button {
+  width: 200px;
+  font-size: 13px;
+  margin-top: 32px; /* Adjusted top margin */
+  align-self: center;
+  height: 40px;
+  font-family: Poppins, sans-serif;
+  border-radius: 8px;
+  text-transform: none; /* Keeps the text as is (uppercase and lowercase) */
+}

@@ -1,0 +1,151 @@
+/* Container and background */
+.contentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+}
+
+.logoContainer {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+/* Payment card container */
+.paymentPage {
+  width: 500px;
+  padding: 0 10px;
+  border-radius: 23px;
+  border: 1px solid #707070;
+  background: var(--background-default);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.paymentTitle {
+  font-size: 38px;
+  font-weight: bold;
+  color: #9a31ef;
+  margin-bottom: 10px;
+}
+
+.trialInfo {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+/* Input fields */
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputField,
+.inputSmallLeft,
+.inputSmallRight {
+  width: 400px;
+  height: 51px;
+  margin: 10px 0;
+  border-radius: 13px;
+  background: #fff;
+  padding: 0 15px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #676767;
+  outline: none;
+  border: none; /* Remove the black outline */
+}
+
+.cardNumberContainer {
+  position: relative;
+}
+
+.creditCardIcon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  margin-right: 10px;
+}
+
+.inlineContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.inputSmallLeft {
+  margin-left: 35px;
+  width: 35%;
+}
+
+.inputSmallRight {
+  width: 35%;
+  margin-right: 35px;
+}
+
+.securityInfo {
+  font-size: 17px;
+  font-weight: bold;
+  color: #939393;
+  margin: 20px 0;
+  margin-bottom: 30px;
+}
+
+/* Button */
+.startTrialButton {
+  min-width: 275px;
+  height: 51px;
+  background: #9a30ef;
+  border: none;
+  border-radius: 13px;
+  color: #fff;
+  font-size: 19px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.startTrialButton:hover {
+  background: #7a22d2;
+}
+
+/* Login prompt */
+.accountPrompt {
+  font-size: 13px;
+  color: #9a30ef;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.loginText {
+  padding-top: 5px;
+  font-size: 13px;
+  color: #939393;
+  margin-top: 1ch;
+  text-align: center;
+}
+
+.loginLink {
+  font-size: 13px;
+  font-weight: bold;
+  color: #9a30ef;
+  margin-top: 20px;
+  cursor: pointer;
+}

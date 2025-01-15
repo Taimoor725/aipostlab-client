@@ -1,0 +1,20 @@
+.square {
+  width: 150px;
+  height: 150px;
+  background-color: var(--background-paper);
+  border: 1px solid rgb(245, 245, 245);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.square img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.selected {
+  border: 2px solid rgb(0, 0, 0);
+}

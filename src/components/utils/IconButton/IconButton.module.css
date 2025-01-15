@@ -1,0 +1,41 @@
+.iconButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.iconButton.small {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.8rem;
+}
+
+.iconButton.medium {
+  padding: 0.6rem 1rem;
+  font-size: 0.9rem;
+}
+
+.iconButton.large {
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+}
+
+.iconButton:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}

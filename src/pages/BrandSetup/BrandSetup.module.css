@@ -1,0 +1,112 @@
+/* src/pages/brandSetup.module.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  background-color: var(--background-default); /* Light background */
+  max-width: 100%; /* Limit max width */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.header {
+  /* flex row*/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dropdownContainer {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -1rem; /* Space between dropdown and form */
+}
+
+.form2 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.formGroup {
+  margin-bottom: 1.5rem; /* Space between form groups */
+  margin-right: 1rem;
+}
+.ImportWeb {
+  margin-right: 300px;
+  padding-right: 1rem;
+}
+
+.leftSection {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  padding-right: 1rem;
+}
+
+.rightSection {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 1rem;
+}
+
+.importText {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #333; /* Dark text color */
+  margin-bottom: 1rem; /* Space between text and form */
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+input[type="text"],
+input[type="url"],
+input[type="color"],
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+textarea {
+  resize: none; /* Prevent resizing */
+}
+
+.submitButton {
+  max-width: 300px; /* Limit max width */
+  margin: 0 auto; /* Center horizontally */
+  display: block; /* Ensure it behaves as a block element */
+  margin-bottom: 10px;
+}
+
+.submitButton:hover {
+  background-color: #6e25aa; /* Darker shade on hover */
+}
+
+.error {
+  text-align: center;
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}

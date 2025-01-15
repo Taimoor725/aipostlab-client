@@ -1,0 +1,25 @@
+.contentContainer {
+  display: flex;
+
+  min-height: 900px;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.projectGridContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 15px;
+  margin-top: 16px;
+  margin-right: 32px; /* Added right margin */
+}
+
+.projectList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

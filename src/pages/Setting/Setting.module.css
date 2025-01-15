@@ -1,0 +1,59 @@
+.contentContainer {
+  display: flex;
+  min-height: 600px;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+  padding-bottom: 48px;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ButtonContainer {
+  margin-left: 24px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  gap: 1.5rem;
+  transition: background-color 0.3s ease;
+}
+
+.BillingContainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 24px;
+  gap: 20px;
+}
+
+.AccountContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+  gap: 20px;
+}
+
+.RowContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.selected {
+  background-color: var(
+    --secondary
+  ) !important; /* Use the secondary color variable */
+  color: #ffffff;
+}

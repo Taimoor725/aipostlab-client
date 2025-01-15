@@ -1,0 +1,219 @@
+/* Login.module.css */
+.contentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+}
+
+.logoContainer {
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.logo {
+  width: 250px;
+  height: auto;
+  margin-bottom: 0px;
+}
+
+.loginBox {
+  width: 500px;
+  padding: 0 10px;
+  border-radius: 23px;
+  border: 1px solid #707070;
+  background: var(--background-default);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.loginTitle {
+  font-size: 50px;
+  font-weight: bold;
+  color: #9a31ef;
+  margin-bottom: 10px;
+}
+
+.subTitle {
+  font-size: 25px;
+  font-weight: bold;
+  color: #6f25aa;
+  margin-bottom: 30px;
+}
+
+.orText {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  color: #747474;
+  margin: 20px 0;
+}
+
+.label {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #676767;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #676767;
+}
+
+.passwordContainer {
+  position: relative;
+}
+
+.eyeIcon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.forgotPassword {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  color: #939393;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.loginButton {
+  width: 200px;
+  padding: 12px;
+  border-radius: 13px;
+  background: rgba(154, 48, 239, 1);
+  color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s;
+  display: block;
+  margin: 0 auto;
+}
+
+.loginButton:hover {
+  background: rgba(154, 48, 239, 0.8);
+}
+
+.socialLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.googleButtonCustom {
+  width: 100%;
+  padding: 12px;
+  border-radius: 13px;
+  background: rgb(255, 255, 255);
+  color: #939393;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.googleButtonCustom:hover {
+  background-color: #f0f0f0;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.description {
+  font-size: 13px;
+  color: #939393;
+  text-align: center;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.inputBox {
+  width: 400px !important;
+  height: 51px !important;
+  margin: 10px 0 !important;
+  border-radius: 13px !important;
+  background: #fff !important;
+  padding: 0 15px !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  color: #676767 !important;
+  outline: none !important;
+  border: none !important; /* Remove the black outline */
+  /* Add consistent styles for all input types */
+  box-sizing: border-box !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
+  appearance: none !important;
+}
+
+.inputLabel {
+  display: none;
+}
+
+.separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: #747474;
+  margin: 15px auto;
+  width: 200px;
+}
+
+.separatorLine {
+  flex: 1;
+  height: 1px;
+  background: #747474;
+  margin: 0 10px;
+}
+
+.signUpText {
+  padding-top: 5px;
+  font-size: 13px;
+  color: #939393;
+  margin-top: 1ch;
+  text-align: center;
+}
+
+.signUpLink {
+  font-size: 13px;
+  color: #9a30ef;
+  margin-top: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.errorText {
+  color: red;
+  font-size: 13px;
+  margin-top: 10px;
+}

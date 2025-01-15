@@ -1,0 +1,56 @@
+.planBox {
+  margin-top: 24px;
+  margin-bottom: 36px;
+  border-radius: 8px;
+  background-color: var(--background-paper);
+  padding: 20px;
+  text-align: left;
+  width: 270px;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.description {
+  margin: 10px 0;
+}
+
+.price {
+  margin: 10px 0;
+}
+
+.priceValue {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.packageList {
+  list-style: none;
+  padding: 0;
+}
+
+.packageItem {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.checkMark {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-right: 10px;
+}
+
+.button {
+  display: block;
+  margin: 20px auto 0;
+  border-radius: 8px;
+  text-transform: none;
+}

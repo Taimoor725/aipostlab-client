@@ -1,0 +1,142 @@
+.container {
+  background-color: var(--background-paper); /* Light background color */
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin-bottom: 1rem; /* Space between components */
+  width: 100%; /* Full width for the component */
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  cursor: pointer; /* Cursor changes to pointer when hovering */
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; /* Fixed width for the icon */
+  height: 40px; /* Fixed height for the icon */
+  background-color: var(--primary-light); /* Icon background color */
+  border-radius: 50%; /* Circular background */
+  margin-right: 1rem; /* Space between icon and title */
+}
+
+.icon {
+  color: var(--text-primary); /* Icon color */
+  font-size: 1.3rem; /* Icon size */
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: 600; /* Bold title */
+}
+
+.description {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.warningText {
+  display: flex; /* Align items in one line */
+  align-items: center; /* Vertically center the items */
+  background-color: rgb(233, 212, 20); /* Yellow background color */
+  padding: 0.5rem; /* Padding around the text */
+  border-radius: 8px; /* Slightly rounded corners */
+}
+
+.warningIcon {
+  color: var(--text-danger); /* Icon color */
+  font-size: 1rem; /* Icon size */
+  margin-right: 0.5rem; /* Space between icon and text */
+  margin-top: o.5rem; /* Adjust vertical alignment */
+}
+
+.warningText p {
+  margin: 0; /* Remove default margin from paragraph */
+  font-size: 0.9rem; /* Font size for the warning text */
+  font-weight: 600; /* Bold text */
+  color: var(--text-danger); /* Text color */
+}
+
+.uploadBox {
+  border: 2px dashed #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  position: relative;
+  background-color: #fafafa;
+  margin-top: 1rem;
+}
+
+.uploadLabel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.uploadIcon {
+  font-size: 1.2rem;
+  margin-right: 0.5rem;
+}
+
+.uploadText {
+  font-weight: 500;
+  color: #888;
+}
+
+.uploadInput {
+  display: none; /* Hide default file input */
+}
+
+.descriptionWrapper {
+  margin-right: 2rem;
+}
+
+.expandedContent {
+  margin-top: 1rem; /* Space between header and input fields */
+  display: flex;
+  flex-direction: column; /* Stack input fields vertically */
+}
+
+.expandIcon {
+  font-size: 1.2rem; /* Size of the expand/collapse icon */
+  font-weight: 600; /* Bold font for visibility */
+  padding: 0.5rem; /* Padding around the icon */
+  margin-left: auto; /* Push the icon to the right */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transition: transform 0.3s ease; /* Smooth transition for transform */
+}
+
+.expandIcon:hover {
+  transform: scale(1.1); /* Slightly enlarge the icon on hover */
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  margin-top: 1rem; /* Add some space above the button */
+}
+
+.buttonWrapper button {
+  width: 200px; /* Set the button width to 300px */
+}
+
+.logoGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.selectedLogo {
+  border: 2px solid var(--primary-light);
+  border-radius: 8px;
+}

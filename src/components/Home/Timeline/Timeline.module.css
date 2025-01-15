@@ -1,0 +1,28 @@
+.timelineContainer {
+  border-radius: 10px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  outline: 2px solid #ccc;
+  background-color: #ffffff;
+}
+
+.item {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.correctMark {
+  border: 2px solid var(--primary);
+  border-radius: 50%;
+  padding: 0px 3px;
+  margin-left: 8px;
+  font-size: 8px; /* Reduced font size */
+  color: var(--primary); /* Set color to primary */
+  font-weight: bold;
+}
+
+.separator {
+  margin: 0 10px;
+}

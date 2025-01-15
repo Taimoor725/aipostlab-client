@@ -1,0 +1,109 @@
+.container {
+  background-color: var(--background-paper);
+  border-radius: 8px;
+  padding-left: 40px;
+  padding-right: 30px;
+  width: 600px;
+  height: 180px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  justify-content: space-between;
+}
+
+.LeftContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: -12px;
+}
+
+.description {
+  margin-bottom: 20px;
+}
+
+.RightContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.select {
+  width: 180px;
+  height: 40px;
+  background-color: #dad7d7;
+  border-radius: 8px !important; /* Increase border radius */
+  border: none !important; /* Ensure border is removed */
+  outline: none !important; /* Ensure outline is removed */
+  margin-top: 40px;
+}
+
+.MuiSelect-root {
+  border: none !important; /* Remove border */
+  outline: none !important; /* Remove outline */
+}
+
+.select .Mui-focused {
+  outline: none !important; /* Remove outline when focused */
+  border: none !important; /* Remove border when focused */
+}
+
+.MuiOutlinedInput-root .MuiOutlinedInput-input {
+  border: none !important; /* Remove border */
+  outline: none !important; /* Remove outline */
+}
+
+.MuiOutlinedInput-root {
+  border-radius: 20px !important; /* Ensure border radius is applied */
+  &.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border: none !important; /* Remove border when focused */
+  }
+  .MuiOutlinedInput-notchedOutline {
+    border: none !important; /* Remove border */
+  }
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline,
+.MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+  border: none !important; /* Remove border */
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border: none !important; /* Remove border */
+}
+
+.MuiSelect-select {
+  border: none !important; /* Remove border */
+  outline: none !important; /* Remove outline */
+}
+
+.MuiSelect-select:focus {
+  border: none !important; /* Remove border when focused */
+  outline: none !important; /* Remove outline when focused */
+}
+
+.MuiSelect-select.MuiSelect-outlined:focus {
+  border: none !important; /* Remove border when focused */
+  outline: none !important; /* Remove outline when focused */
+}
+
+.MuiSelect-select.MuiSelect-outlined {
+  border: none !important; /* Remove border */
+  outline: none !important; /* Remove outline */
+}
+
+.flag {
+  margin-right: 10px;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,162 @@
+.parentDiv {
+  display: flex;
+
+  justify-content: end;
+  padding-bottom: 24px;
+}
+.sizeBox {
+  height: 80px;
+  width: 80px;
+  border-radius: 28px;
+  margin-left: 20px;
+}
+
+.templateBox {
+  margin-bottom: 12px;
+  margin-right: 24px;
+  margin-left: 18px;
+  height: 370px;
+  width: 460px;
+  border-radius: 12px;
+  position: relative;
+}
+
+.templateInnerBox {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-right: 18px;
+  margin-left: 18px;
+  height: 346px;
+  width: 424px;
+  border: 1px solid #b265f2;
+  border-radius: 12px;
+  background-color: #b265f2;
+  z-index: 0;
+}
+.field1Text {
+  margin-top: 62px;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+
+.field2Text {
+  margin-top: 12px;
+  font-size: 28px;
+  text-align: center;
+  color: Black;
+  font-weight: 500;
+}
+.innerBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: absolute;
+  bottom: 0;
+  margin-top: 12px;
+  margin-right: 18px;
+  margin-left: 18px;
+  height: 50%;
+  width: 90%;
+  border: 1px solid #7710d1;
+  border-radius: 12px;
+  background-color: #7710d1;
+  overflow: hidden;
+  align-items: center;
+}
+
+.field3Text {
+  margin-top: 12px;
+  font-size: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+  color: Black;
+  font-weight: 500;
+  width: auto;
+  background-color: var(--background-paper);
+  margin-bottom: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: auto;
+}
+
+.icon {
+  font-size: 24px;
+  margin-right: 10px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.listItem h3 {
+  font-size: 10px;
+  margin: 0;
+  color: #333;
+  text-align: center;
+}
+
+.listItem p {
+  font-size: 13px;
+  margin: 0;
+  color: #666;
+  text-align: center;
+}
+
+.textContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.placeholderContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  height: 100%;
+  margin-top: 18px;
+}
+.placeHolderText {
+  margin-top: 24px;
+}
+
+.logoBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 1px solid white;
+  background-color: var(--background-paper);
+  padding: 10px;
+  text-align: center;
+  z-index: 1;
+  width: 140px;
+  height: 40px;
+  border-radius: 12px;
+  top: -10px;
+}
+
+.logoText {
+  font-size: 24px;
+  font-weight: 500;
+  color: black;
+  justify-self: center;
+}
+.subtext {
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  justify-self: center;
+}

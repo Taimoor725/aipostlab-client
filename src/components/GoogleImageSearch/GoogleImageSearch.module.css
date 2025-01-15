@@ -1,0 +1,48 @@
+.searchContainer {
+  display: flex;
+  height: 600px; /* Set a fixed height for the container */
+  min-height: 600px;
+  background: white;
+  overflow: hidden;
+  margin-left: 24px;
+  margin-right: 24px;
+  padding: 10px;
+  flex-direction: column;
+  margin-top: 48px;
+}
+
+.searchInput {
+  width: 100%; /* Ensure the input takes full width */
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.searchButton {
+  width: 100%; /* Ensure the button takes full width */
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  cursor: pointer;
+}
+
+.imageGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  height: 100%; /* Adjust the height as needed */
+  flex-grow: 1; /* Allow the grid to grow and take available space */
+  overflow-y: auto; /* Ensure the grid is scrollable */
+}
+
+.image {
+  object-fit: cover;
+  cursor: pointer;
+  width: 24%; /* Scale image size by 20% */
+  height: 30%; /* Scale image size by 20% */
+  transition: transform 0.2s; /* Smooth zoom-out transition */
+}

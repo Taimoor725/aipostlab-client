@@ -1,0 +1,26 @@
+.templateWrapper {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.templateContainer {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  position: absolute;
+}
+
+button {
+  background-color: transparent;
+  border: 2px solid #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}

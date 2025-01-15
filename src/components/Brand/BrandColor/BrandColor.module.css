@@ -1,0 +1,80 @@
+.container {
+  background-color: var(--background-paper); /* Light background color */
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin-bottom: 1rem; /* Space between components */
+  width: 100%; /* Full width for the component */
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  cursor: pointer; /* Cursor changes to pointer when hovering */
+}
+
+.iconWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; /* Fixed width for the icon */
+  height: 40px; /* Fixed height for the icon */
+  background-color: var(--primary-light); /* Icon background color */
+  border-radius: 50%; /* Circular background */
+  margin-right: 1rem; /* Space between icon and title */
+}
+
+.icon {
+  color: var(--text-primary); /* Icon color */
+  font-size: 1.5rem; /* Icon size */
+}
+
+.title {
+  font-size: 1rem;
+  font-weight: 600; /* Bold title */
+}
+.expandedContent {
+  margin-top: 1rem; /* Space between header and input fields */
+  display: flex;
+  flex-direction: column; /* Stack input fields vertically */
+}
+.colorPicker {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns of equal width */
+  gap: 1rem; /* Space between columns */
+}
+
+.expandIcon {
+  font-size: 1.2rem; /* Size of the expand/collapse icon */
+  font-weight: 600; /* Bold font for visibility */
+  padding: 0.5rem; /* Padding around the icon */
+  margin-left: auto; /* Push the icon to the right */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  transition: transform 0.3s ease; /* Smooth transition for transform */
+}
+
+.expandIcon:hover {
+  transform: scale(1.1); /* Slightly enlarge the icon on hover */
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  margin-top: 1rem; /* Add some space above the button */
+}
+
+.buttonWrapper button {
+  width: 200px; /* Set the button width to 300px */
+}
+
+.colorPickerContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.label {
+  flex: 1;
+  font-size: 0.9rem;
+  color: #666;
+}

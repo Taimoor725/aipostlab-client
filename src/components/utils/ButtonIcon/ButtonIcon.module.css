@@ -1,0 +1,69 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between; /* Space between text and icon */
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: #fff; /* Text color */
+  width: 100%;
+  text-align: left; /* Left-align text */
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.button.small {
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+}
+
+.button.medium {
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+}
+
+.button.large {
+  padding: 0.5rem 1.5rem;
+  font-size: 1.1rem;
+}
+
+.button.customSmall {
+  width: 190px;
+  padding: 0.3rem 1rem;
+  font-size: 0.75rem;
+  background-color: #ffffff2f;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+}
+
+.button.small .icon {
+  margin-left: auto; /* Push icon to the right */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px; /* Smaller width for small button */
+  height: 24px; /* Smaller height for small button */
+  border-radius: 70%; /* Make the icon circular */
+  background-color: #ffffff2f; /* Background color for the circle */
+  color: #ffffff; /* Icon color */
+}
+
+.icon {
+  margin-left: auto; /* Push icon to the right */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px; /* Adjust width as needed */
+  height: 34px; /* Adjust height as needed */
+  border-radius: 60%; /* Make the icon circular */
+  background-color: #ffffff2f; /* Background color for the circle */
+  color: #ffffff; /* Icon color */
+}

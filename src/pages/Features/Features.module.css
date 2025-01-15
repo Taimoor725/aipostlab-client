@@ -1,0 +1,16 @@
+.contentContainer {
+  display: flex;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-radius: 12px;
+  align-items: center;
+  text-align: center; /* Ensure content is centered */
+}
+
+.selectionGrid {
+  display: flex;
+}

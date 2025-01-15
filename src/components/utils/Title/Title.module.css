@@ -1,0 +1,33 @@
+.title {
+  color: var(--primary);
+  font-size: 3.5em;
+  font-weight: 900 !important; /* Increase weight and ensure it is not overridden */
+  text-align: center;
+  margin-bottom: 0.2em; /* Reduced gap */
+  width: auto; /* Ensure width is auto */
+  margin: 0 auto; /* Center align */
+  width: 950px;
+  margin-bottom: 12px;
+}
+
+.subtitle {
+  color: black;
+  font-size: 1.2em;
+  text-align: center;
+  margin-top: 0; /* Reduced gap */
+  margin-bottom: 0.2em; /* Reduced gap between subtitles */
+  font-family: Poppins, sans-serif;
+  width: auto; /* Ensure width is auto */
+  margin: 0 auto; /* Center align */
+  width: 1000px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* Add button styles */
+.button {
+  width: 80px; /* Further reduced width */
+  font-size: 0.7em; /* Further reduced font size */
+}

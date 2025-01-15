@@ -1,0 +1,40 @@
+/* src/components/DynamicButton/DynamicButton.module.css */
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 200px;
+}
+
+.button:hover {
+  opacity: 0.9; /* Add some hover effect */
+}
+
+.small {
+  font-size: 0.8rem; /* Smaller font size */
+  font-weight: 600;
+}
+
+.medium {
+  font-size: 1rem; /* Default font size */
+  font-weight: 700;
+}
+
+.large {
+  font-size: 1.2rem; /* Larger font size */
+  font-weight: 700;
+}
+
+.icon {
+  /* Space between label and icon */
+  display: flex;
+  align-items: center;
+  margin-right: 12px;
+}

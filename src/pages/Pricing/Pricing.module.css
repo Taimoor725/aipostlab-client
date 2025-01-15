@@ -1,0 +1,20 @@
+.contentContainer {
+  display: flex;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+  align-items: center;
+  height: auto;
+  padding-top: 16px;
+}
+
+.planContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 16px;
+  gap: 30px;
+}

@@ -1,0 +1,415 @@
+{
+  "ProjectTitle": {
+    "dropDownLabel": "Proje Adı"
+  },
+  "Billing": {
+    "welcome": "Pixeladd.com'a hoş geldiniz",
+    "description": "Pixeladd.com'u tercih ettiğiniz dilde kullanın. Çeviriler AI tarafından yapılır ve bazı yanlışlıklar olabilir.",
+    "selectLanguage": "Dil Seçin",
+    "billingInformation": "Fatura Bilgileri",
+    "billingDescription": "Fatura bilgilerinizi aşağıdaki alanda değiştirebilirsiniz.",
+    "fullName": "Tam Ad",
+    "email": "E-posta",
+    "companyOptional": "Şirket (İsteğe Bağlı)",
+    "euVat": "AB KDV (Örn: FR123456789)",
+    "save": "Kaydet"
+  },
+  "Card": {
+    "cardInformation": "Kart Bilgileri",
+    "cardDescription": "Kart bilgilerinizi aşağıdaki alanda değiştirebilirsiniz.",
+    "cardNumber": "Kart Numarası",
+    "expiryDate": "AA/YY",
+    "cvc": "CVC",
+    "save": "Kaydet"
+  },
+  "Password": {
+    "changePassword": "Şifreyi Değiştir",
+    "nextLogin": "Bir sonraki girişinizde bu yeni şifreyi kullanacaksınız",
+    "newPassword": "Yeni Şifre",
+    "confirmNewPassword": "Yeni Şifreyi Onayla",
+    "update": "Güncelle",
+    "updating": "Güncelleniyor..."
+  },
+  "PersonalInformation": {
+    "changePersonalInformation": "Kişisel Bilgileri Değiştir",
+    "confirmEmail": "E-posta adresinizi değiştirirseniz, sonrasını onayladığınızdan emin olun.",
+    "fullName": "Tam Ad",
+    "email": "E-posta",
+    "update": "Güncelle",
+    "updating": "Güncelleniyor..."
+  },
+  "Language": {
+    "Turkish": "Türkçe (TR)",
+    "English": "İngilizce (US)",
+    "Dutch": "Hollandaca (NL)"
+  },
+  "Settings": {
+    "title": "Ayarlar",
+    "subtitle": "Hesap detaylarınızı, fatura bilgilerinizi ve paketinizi yönetin.",
+    "account": "Hesap",
+    "billing": "Fatura"
+  },
+  "Home": {
+    "title": "Reklam için AI aracı",
+    "subTitle1": "Oluştur ",
+    "boldPart": "afişler, metinler, fotoğraf çekimleri",
+    "subTitle2": "Rakiplerinizinkinden daha iyi performans gösteren.",
+    "buttonText": "Şimdi Ücretsiz Deneyin"
+  },
+  "AIAssets": {
+    "title": "AI Tarafından Oluşturulan Varlıklar"
+  },
+  "Timeline": {
+    "brand": "Marka",
+    "size": "Boyut",
+    "texts": "Metinler",
+    "image": "Görüntü"
+  },
+  "Features": {
+    "title": "Hepsi bir arada Yaratıcı Pazarlama Tasarım Merkezi",
+    "subTitle1": "Yaratıcı ve etkili reklam varlıkları oluşturun, kampanyalarınızı optimize etmek için uygulanabilir içgörüler elde edin, rakip performansını analiz edin ve medya harcamalarından önce yaratıcılığınızı puanlayın - hepsi bir platformda.",
+    "socialCreatives": {
+      "title": "Sosyal Yaratıcılar",
+      "description": "Basit bir komutla benzersiz, ticari olarak güvenli ve ultra gerçekçi stok görüntüler oluşturun"
+    },
+    "productCreatives": {
+      "title": "Ürün Yaratıcıları",
+      "description": "Tek bir görüntü yükleyerek ürün fotoğraflarını anında profesyonel çekimlere dönüştürün"
+    }
+  },
+  "Pricing": {
+    "title": "Değerin Üzerinde Teslimat Yapan Fiyatlandırma",
+    "subTitle1": "İster bir startup, ajans veya kurumsal olun, fiyatlandırmamız yatırımınızın hemen karşılığını almasını sağlamak için hazırlanmıştır.",
+    "starterPlans": {
+      "title": "Başlangıç Planları",
+      "description1": "Tüm işleri yapan ve küçük işletmeler için gerçek büyüme sağlayan hepsi bir arada çözüm.",
+      "description2": "Yıllık $240 tasarruf edin",
+      "features": {
+        "downloads": "İndirmeler: 10",
+        "brandLimit": "Marka Limiti: 1",
+        "allAIAssets": "Tüm AI Varlıkları Açık",
+        "unlimitedGenerations": "Sınırsız Üretim",
+        "textGeneratorAI": "Metin Üretici AI",
+        "adPlatformIntegrations": "Reklam Platformu Entegrasyonları",
+        "unlimitedPhotos": "iStock tarafından Sınırsız Fotoğraflar",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Rakip İçgörüleri Erişimi",
+        "totalUsers": "Toplam Kullanıcı: 2"
+      }
+    },
+    "proPlans": {
+      "title": "Pro Planları",
+      "description1": "Markalarınızı dönüşüm güç merkezlerine dönüştürmek için Pro Özelliklerin kilidini açın.",
+      "description2": "Yıllık $1,494 tasarruf edin",
+      "features": {
+        "downloads": "İndirmeler: 100",
+        "brandLimit": "Marka Limiti: 5",
+        "allAIAssets": "Tüm AI Varlıkları Açık",
+        "unlimitedGenerations": "Sınırsız Üretim",
+        "textGeneratorAI": "Metin Üretici AI",
+        "adPlatformIntegrations": "Reklam Platformu Entegrasyonları",
+        "unlimitedPhotos": "iStock tarafından Sınırsız Fotoğraflar",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Rakip İçgörüleri Erişimi",
+        "totalUsers": "Toplam Kullanıcı: 2"
+      }
+    },
+    "ultimatePlans": {
+      "title": "Ultimate Planları",
+      "description1": "Pazarlama ekibinizin potansiyelini en kapsamlı AI çözümümüzle ortaya çıkarın.",
+      "description2": "Yıllık $3600 tasarruf edin",
+      "features": {
+        "downloads": "İndirmeler: 500",
+        "brandLimit": "Marka Limiti: 50",
+        "allAIAssets": "Tüm AI Varlıkları Açık",
+        "unlimitedGenerations": "Sınırsız Üretim",
+        "textGeneratorAI": "Metin Üretici AI",
+        "adPlatformIntegrations": "Reklam Platformu Entegrasyonları",
+        "unlimitedPhotos": "iStock tarafından Sınırsız Fotoğraflar",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Rakip İçgörüleri Erişimi",
+        "totalUsers": "Toplam Kullanıcı: 2"
+      }
+    }
+  },
+  "Login": {
+    "logoAlt": "Marka Logonuz",
+    "title": "Giriş Yap",
+    "subTitle": "Pazarlamanın geleceğine",
+    "or": "veya",
+    "emailPlaceholder": "E-posta",
+    "passwordPlaceholder": "Şifre",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "loginButton": "Giriş Yap",
+    "noAccount": "Hesabınız yok mu?",
+    "signUp": "Kaydol",
+    "invalidEmail": "Geçersiz e-posta adresi",
+    "invalidPassword": "Şifre en az 6 karakter olmalıdır",
+    "loginFailed": "Giriş başarısız",
+    "invalidCredentials": "Geçersiz e-posta veya şifre"
+  },
+  "Signup": {
+    "title": "Reklam için AI aracı!",
+    "subtitle": "Kaydolun ve 10 Ücretsiz Kredi Kazanın",
+    "fullNamePlaceholder": "Tam Ad",
+    "emailPlaceholder": "E-posta",
+    "passwordPlaceholder": "Şifre",
+    "invalidEmail": "Geçersiz e-posta adresi",
+    "invalidPassword": "Şifre en az 6 karakter olmalıdır",
+    "signupFailed": "Kayıt başarısız",
+    "agreementText": "Kayıt olarak",
+    "termsOfUse": "kullanım şartlarımızı",
+    "signUpButton": "Kaydolun ve 10 Ücretsiz Kredi Kazanın",
+    "haveAccount": "Hesabınız var mı?",
+    "login": "Giriş Yap"
+  },
+  "Payment": {
+    "logoAlt": "Marka Logonuz",
+    "paymentDetails": "Ödeme Detayları",
+    "trialInfo": "Bu, hesabınızı doğrulamak içindir. 7 günlük ücretsiz deneme süreniz boyunca ücretlendirilmeyeceksiniz.",
+    "cardHolderName": "Kart Sahibi Tam Adı",
+    "cardNumber": "Kart Numarası",
+    "expiryDate": "AA / YY",
+    "cvv": "CVV",
+    "country": "Ülke (ör. Türkiye)",
+    "securityInfo": "Şifreli, Güvenli ve Güvenli",
+    "startTrialButton": "Ücretsiz Denemeyi Başlat",
+    "haveAccount": "Hesabınız var mı?",
+    "login": "Giriş Yap"
+  },
+  "NewProject": {
+    "projectListTitle": "Proje Listesi",
+    "projectListSubtitle": "Projelerinizi gözden geçirin, gerektiğinde türe göre filtreleyin.",
+    "createProjectTitle": "Proje Oluştur",
+    "createProjectDescription": "Yapay zekamızı kullanarak yeni varlıklar oluşturmak için buraya tıklayın."
+  },
+  "AIGenerated": {
+    "title": "AI Tarafından Oluşturulan Varlık Seçimi",
+    "subtitle": "Yapay Zekamızı kullanarak oluşturmak istediğiniz varlık türünü seçin",
+    "socialCreatives": {
+      "title": "Sosyal Yaratıcılar",
+      "description": "Basit bir komutla benzersiz, ticari olarak güvenli ve ultra gerçekçi stok görüntüler oluşturun"
+    },
+    "adCreatives": {
+      "title": "Reklam Yaratıcıları",
+      "description": "Ürününüzün veya hizmetinizin bir görüntüsünü yükleyerek yüksek dönüşüm sağlayan reklamlar oluşturun"
+    },
+    "productCreatives": {
+      "title": "Ürün Yaratıcıları",
+      "description": "Tek bir görüntü yükleyerek ürün fotoğraflarını anında profesyonel çekimlere dönüştürün"
+    }
+  },
+  "SocialCreatives": {
+    "title": "Oluşturulan Sosyal Yaratıcılar",
+    "subtitle": "AI'mızı kullanarak etkileşim odaklı sosyal medya gönderi yaratıcıları oluşturun.",
+    "nextStep": "Sonraki Adım"
+  },
+  "ProductCreatives": {
+    "title": "Oluşturulan Ürün Yaratıcıları",
+    "subtitle": "Ürün fotoğraflarını profesyonel reklamlara dönüştürün.",
+    "nextStep": "Sonraki Adım"
+  },
+  "SizeBox": {
+    "socialMediaSizes": "Sosyal Medya Boyutları",
+    "socialMediaSubtitle": "Sosyal medya reklamcılığı için en yaygın boyutlar.",
+    "postSize": "Gönderi Boyutu",
+    "landscapeSize": "Manzara Boyutu",
+    "storySize": "Hikaye Boyutu",
+    "portraitSize": "Portre Boyutu",
+    "pinSize": "Pin Boyutu"
+  },
+  "BackgroundImage": {
+    "title": "Arka Plan Resmini Seçin",
+    "subtitle": "AI'mızı kullanarak etkileşim odaklı sosyal medya gönderi yaratıcıları oluşturun.",
+    "inputLabel": "Proje Adınızı Verin:",
+    "generating": "Oluşturuluyor",
+    "generate": "Oluştur",
+    "apiError": "Lütfen resim boyutunun, arka plan resminin ve markanın seçildiğinden emin olun.",
+    "unknownError": "Bilinmeyen bir hata oluştu",
+    "placeholder": "Proje adı (İsteğe Bağlı)"
+  },
+  "GenerateTextForm": {
+    "topicText": "AI ile metinler oluşturun",
+    "subText": "Bırakın yapay zekamız, görselleriniz için dönüşüm odaklı metinler yazsın"
+  },
+  "TemplateImage": {
+    "logoText": "LOGONUZ",
+    "subtext": "BURADA",
+    "field1": "Ana başlığınız burada!",
+    "field2": "Sloganınız burada!",
+    "field3": "Harekete geçirici mesaj burada!",
+    "placeholder": "Arka plan resminiz burada olacak."
+  },
+  "SelectBGImage": {
+    "updateBackgroundImage": "Referans Yükle",
+    "dragDrop": "Veya buraya sürükleyip bırakın.",
+    "yourLibrary": "Kütüphaneniz",
+    "searchImages": "Görselleri Ara",
+    "errors": {
+      "fetchImage": "Görsel alınamadı.",
+      "fileRead": "Dosya okunamadı."
+    }
+  },
+  "GoogleImageSearch": {
+    "searchPlaceholder": "Görselleri ara...",
+    "search": "Ara",
+    "searching": "Aranıyor...",
+    "downloading": "İndiriliyor...",
+    "searchResultAlt": "Arama sonucu"
+  },
+  "TextOnImage": {
+    "title": "Görsel Üzerine Metin",
+    "subtitle": "Yapay zekamız, ürününüz ve hedef kitleniz temelinde birkaç metin önerir. Ayrıca kendi metninizi de yazabilirsiniz.",
+    "nextStep": "Sonraki Adım"
+  },
+  "BrandSetup": {
+    "title": "Marka Kurulumu",
+    "description": "Marka bilgilerinizi bir kez sağlayın ve yapay zekamızın markaya uygun reklam varlıkları oluşturmasına izin verin.",
+    "selectBrand": "Marka Seçin",
+    "importText": "Marka bilgilerinizi web sitenizden içe aktarın veya manuel olarak girin.",
+    "creating": "Oluşturuluyor...",
+    "createBrand": "Marka Oluştur",
+    "errors": {
+      "allFieldsRequired": "Tüm alanlar gereklidir",
+      "failedToCreateBrand": "Marka oluşturulamadı",
+      "errorCreatingBrand": "Marka oluşturulurken hata oluştu"
+    },
+    "success": {
+      "brandCreated": "Marka başarıyla oluşturuldu"
+    },
+    "updating": "Güncelleniyor...",
+    "updateBrand": "Markayı Güncelle"
+  },
+  "ImportFromWebsite": {
+    "title": "Web Sitesinden İçe Aktar",
+    "urlLabel": "URL:",
+    "urlPlaceholder": "https://example.com",
+    "importing": "İçe Aktarılıyor...",
+    "importBrand": "Markayı İçe Aktar",
+    "errors": {
+      "enterUrl": "Lütfen bir URL girin.",
+      "failedToFetch": "Marka verileri alınamadı",
+      "importingData": "Marka verileri içe aktarılırken hata oluştu"
+    },
+    "success": {
+      "importedData": "İçe aktarılan marka verileri:"
+    }
+  },
+  "BrandColor": {
+    "title": "Marka Renklerini Seçin",
+    "brandColor": "Marka Rengi {{index}}",
+    "additionalColor": "Ek Renk {{index}}",
+    "saveAndContinue": "Kaydet ve Devam Et"
+  },
+  "BrandLogo": {
+    "selectBrandLogo": "Marka Logosu Seçin",
+    "uploadDescription": "Logonuzu buraya yükleyin. Şeffaf arka plana sahip koyu renkli bir logo önerilir.",
+    "warningText": "Şeffaf arka plana sahip koyu renkli bir logo önerilir.",
+    "saveAndContinue": "Kaydet ve Devam Et",
+    "uploadPlaceholder": "Logonuzu buraya yükleyin",
+    "logoSelected": "Logo seçildi"
+  },
+  "BrandDetails": {
+    "writeBrandName": "Marka Adı ve Açıklama Yazın",
+    "saveAndContinue": "Kaydet ve Devam Et",
+    "enterBrandName": "Marka adını girin",
+    "enterDescription": "Açıklama girin"
+  },
+  "TemplateSocialCreative": {
+    "generatedAdCreativeTitle": "Oluşturulan Reklam Yaratıcıları",
+    "generatedAdCreativeSubtitle": "Benzersiz yapay zekamızı kullanarak dönüşüm odaklı reklam yaratıcıları oluşturun.",
+    "selectCreativeSize": "Yaratıcı Boyutunu Seçin",
+    "textOnImage": "Görsel Üzerine Metin",
+    "textInputs": "Metin Girdileri",
+    "chooseBackgroundImage": "Arka Plan Resmini Seçin",
+    "selectedImage": "Seçilen Resim",
+    "download": "İndir",
+    "edit": "Düzenle"
+  },
+  "BackgroundRemoval": {
+    "error": "Lütfen devam etmek için bir resim yükleyin."
+  },
+  "DescriptionBox": {
+    "productTitle": "Ürününüz Nedir?",
+    "field1Placeholder": "Örnek: Spor Kapüşonlu",
+    "do": "Yap",
+    "doDescription": "Ürününüzü bir veya iki kelimeyle geniş bir şekilde tanımlayın. Örneğin, şişe, el çantası, vb.",
+    "dont": "Yapma",
+    "dontDescription": "Resimdeki her şeyi tanımlayın veya marka adınızı belirtin.",
+    "tellMore": "Yapay zekamıza ürününüz hakkında daha fazla bilgi verin:",
+    "field2Placeholder": "Örnek: Spor ve siyah hakkında bir kapüşonlu..."
+  },
+  "ImageBox": {
+    "applyCrop": "Kırpmayı Uygula",
+    "cropImage": "Resmi Kırp",
+    "removeBackground": "Arka Planı Kaldır",
+    "deleteImage": "Resmi Sil"
+  },
+  "AIBackground": {
+    "title": "AI Arka Plan Stilleri",
+    "subtitle": "Çeşitli arka plan stillerinden birini seçin.",
+    "generating": "Oluşturuluyor...",
+    "generate": "Oluştur",
+    "error": {
+      "selectStyle": "Lütfen en az bir stil seçin.",
+      "selectImage": "Lütfen bir arka plan resmi seçin.",
+      "generateFailed": "Ürün oluşturulamadı",
+      "unknown": "Bilinmeyen bir hata oluştu"
+    }
+  },
+  "PresetStyles": {
+    "title": "Hazır Stiller",
+    "collapse": "Daralt",
+    "seeAll": "Hepsini Gör",
+    "subtitle": "HQ çıktılar için test edilmiş stiller",
+    "filter": "Filtre",
+    "searchPlaceholder": "Ara",
+    "specialOccasionPlaceholder": "Özel Gün",
+    "aiRecommendations": "AI Önerileri",
+    "mono": "Mono",
+    "interior": "İç Mekan",
+    "showAll": "Hepsini Göster"
+  },
+  "CustomStyles": {
+    "title": "Özel Stiller",
+    "subtitle": "Kendi özel stillerinizi oluşturun",
+    "createButton": "Oluştur",
+    "textareaPlaceholder": "Örnek: Lorem Ipsum, matbaacılık ve dizgi endüstrisinin basit bir sahte metnidir...",
+    "characters": "karakter",
+    "generateButton": "Oluştur"
+  },
+  "StyleMatch": {
+    "title": "Stil Eşleştirme",
+    "subtitle": "Eşleştirmek için bir resim yükleyin",
+    "createButton": "Oluştur",
+    "textareaPlaceholder": "Örnek: Lorem Ipsum, matbaacılık ve dizgi endüstrisinin basit bir sahte metnidir...",
+    "characters": "karakter",
+    "generateButton": "Oluştur"
+  },
+  "SelectedStyles": {
+    "title": "Seçilen Stiller",
+    "subtitle": "Oluşturmak için en fazla 6 stil seçin"
+  },
+  "AppBar": {
+    "Brands": "Markalar",
+    "Projects": "Projeler",
+    "CompetitorInsights": "Rakip İçgörüleri",
+    "InspirationBank": "İlham Bankası",
+    "ScoringAI": "Skorlama AI",
+    "Settings": "Ayarlar"
+  },
+  "AppBarMain": {
+    "Home": "Ana Sayfa",
+    "Features": "Özellikler",
+    "Pricing": "Fiyatlandırma",
+    "InspirationBank": "İlham Bankası",
+    "ScoringAI": "Skorlama AI",
+    "Settings": "Ayarlar",
+    "LogIn": "Giriş Yap",
+    "TryForFreeNow": "Şimdi Ücretsiz Deneyin"
+  },
+  "CreativeEditor": {
+    "title": "Yaratıcı Editör",
+    "subtitle": "Yaratıcı varlıklarınızı burada düzenleyin."
+  }
+}

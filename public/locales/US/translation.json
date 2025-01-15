@@ -1,0 +1,415 @@
+{
+  "ProjectTitle": {
+    "dropDownLabel": "Select Brand"
+  },
+  "Billing": {
+    "welcome": "Welcome to Pixeladd.com",
+    "description": "Use Pixeladd.com in your preferred language. The translations are done by AI and may have some inaccuracies.",
+    "selectLanguage": "Select Language",
+    "billingInformation": "Billing Information",
+    "billingDescription": "You can change your billing information in the field below.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "companyOptional": "Company (Optional)",
+    "euVat": "EU VAT (Exp : FR123456789)",
+    "save": "Save"
+  },
+  "Card": {
+    "cardInformation": "Card Information",
+    "cardDescription": "You can change your card information in the field below.",
+    "cardNumber": "Card Number",
+    "expiryDate": "MM/YY",
+    "cvc": "CVC",
+    "save": "Save"
+  },
+  "Password": {
+    "changePassword": "Change Password",
+    "nextLogin": "On your next login, you will be using this new password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "update": "Update",
+    "updating": "Updating..."
+  },
+  "PersonalInformation": {
+    "changePersonalInformation": "Change Personal Information",
+    "confirmEmail": "If you change email address, make sure to confirm the one after.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "update": "Update",
+    "updating": "Updating..."
+  },
+  "Language": {
+    "Turkish": "Turkish (TR)",
+    "English": "English (US)",
+    "Dutch": "Nederlanden (NL)"
+  },
+  "Settings": {
+    "title": "Settings",
+    "subtitle": "Manage your account details, billing information and package.",
+    "account": "Account",
+    "billing": "Billing"
+  },
+  "Home": {
+    "title": "AI tool for advertising",
+    "subTitle1": "Generate ",
+    "boldPart": "banners, texts, photoshoots",
+    "subTitle2": "That outperform those of your competitors.",
+    "buttonText": "Try for Free Now"
+  },
+  "AIAssets": {
+    "title": "AI Generated Assets"
+  },
+  "Timeline": {
+    "brand": "Brand",
+    "size": "Size",
+    "texts": "Texts",
+    "image": "Image"
+  },
+  "Features": {
+    "title": "Your all-in-one Creative Marketing Design Center",
+    "subTitle1": "Create creative and effective ad assets, gain actionable insights to optimize your campaigns, analyze competitor performance, and score your creativity before media spend—all in one platform.",
+    "socialCreatives": {
+      "title": "Social Creatives",
+      "description": "Create unique, commercially-safe and Ultra realistic stock images in any style with a simple prompt"
+    },
+    "productCreatives": {
+      "title": "Product Creatives",
+      "description": "Turn product photos into professional Shoots instantly by uploading a single Image"
+    }
+  },
+  "Pricing": {
+    "title": "Pricing that Overdelivers on Value",
+    "subTitle1": "Whether you’re a startup, agency or enterprise, our pricing is crafted to ensure your investment pays off right away.",
+    "starterPlans": {
+      "title": "Starter Plans",
+      "description1": "The all-in-one solution that does all the work and drives real growth for small businesses.",
+      "description2": "Save $240 yearly",
+      "features": {
+        "downloads": "Downloads: 10",
+        "brandLimit": "Brand Limit: 1",
+        "allAIAssets": "All AI Assets Unlocked",
+        "unlimitedGenerations": "Unlimited Generations",
+        "textGeneratorAI": "Text Generator AI",
+        "adPlatformIntegrations": "Ad Platform Integrations",
+        "unlimitedPhotos": "Unlimited Photos by iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Competitor Insights Access",
+        "totalUsers": "Total Users: 2"
+      }
+    },
+    "proPlans": {
+      "title": "Pro Plans",
+      "description1": "Unlock Pro Features to transform your brands into conversion powerhouses.",
+      "description2": "Save $1,494 yearly",
+      "features": {
+        "downloads": "Downloads: 100",
+        "brandLimit": "Brand Limit: 5",
+        "allAIAssets": "All AI Assets Unlocked",
+        "unlimitedGenerations": "Unlimited Generations",
+        "textGeneratorAI": "Text Generator AI",
+        "adPlatformIntegrations": "Ad Platform Integrations",
+        "unlimitedPhotos": "Unlimited Photos by iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Competitor Insights Access",
+        "totalUsers": "Total Users: 2"
+      }
+    },
+    "ultimatePlans": {
+      "title": "Ultimate Plans",
+      "description1": "Unleash your marketing team’s potential with our most comprehensive AI solution.",
+      "description2": "Save $3600 yearly",
+      "features": {
+        "downloads": "Downloads: 500",
+        "brandLimit": "Brand Limit: 50",
+        "allAIAssets": "All AI Assets Unlocked",
+        "unlimitedGenerations": "Unlimited Generations",
+        "textGeneratorAI": "Text Generator AI",
+        "adPlatformIntegrations": "Ad Platform Integrations",
+        "unlimitedPhotos": "Unlimited Photos by iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Competitor Insights Access",
+        "totalUsers": "Total Users: 2"
+      }
+    }
+  },
+  "Login": {
+    "logoAlt": "Your Brand Logo",
+    "title": "Login",
+    "subTitle": "To the future of marketing",
+    "or": "or",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Login App",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "invalidEmail": "Invalid email address",
+    "invalidPassword": "Password must be at least 6 characters",
+    "loginFailed": "Login failed",
+    "invalidCredentials": "Invalid email or password"
+  },
+  "Signup": {
+    "title": "AI tool for advertising!",
+    "subtitle": "Sign up & Get 10 Free Credits",
+    "fullNamePlaceholder": "Full Name",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "invalidEmail": "Invalid email address",
+    "invalidPassword": "Password must be at least 6 characters",
+    "signupFailed": "Signup failed",
+    "agreementText": "By registering you agree to our",
+    "termsOfUse": "terms of use",
+    "signUpButton": "Sign up & Get 10 Free Credits",
+    "haveAccount": "Do you have an account?",
+    "login": "Login"
+  },
+  "Payment": {
+    "logoAlt": "Your Brand Logo",
+    "paymentDetails": "Payment Details",
+    "trialInfo": "This is to verify your account. You will not be charged during your 7 days free trial.",
+    "cardHolderName": "Card Holder Full Name",
+    "cardNumber": "Card Number",
+    "expiryDate": "MM / YY",
+    "cvv": "CVV",
+    "country": "Country (e.g., Turkey)",
+    "securityInfo": "Encrypted, Safe & Secure",
+    "startTrialButton": "Start Free Trial",
+    "haveAccount": "Do you have an account?",
+    "login": "Login"
+  },
+  "NewProject": {
+    "projectListTitle": "Project List",
+    "projectListSubtitle": "Browse through your projects, filter by type when necessary.",
+    "createProjectTitle": "Create a Project",
+    "createProjectDescription": "Click here to generate new assets using our artificial intelligence."
+  },
+  "AIGenerated": {
+    "title": "AI-Generated Asset Selection",
+    "subtitle": "Select the asset type you would like to generate using our Artificial Intelligence",
+    "socialCreatives": {
+      "title": "Social Creatives",
+      "description": "Create unique, commercially-safe and Ultra realistic stock images in any style with a simple prompt"
+    },
+    "adCreatives": {
+      "title": "Ad Creatives",
+      "description": "Generate high-converting ads by simply Uploading an image of your product or service"
+    },
+    "productCreatives": {
+      "title": "Product Creatives",
+      "description": "Turn product photos into professional Shoots instantly by uploading a single Image"
+    }
+  },
+  "SocialCreatives": {
+    "title": "Generated Social Creatives",
+    "subtitle": "Generate engagement-focused social media post creatives using our AI.",
+    "nextStep": "Next Step"
+  },
+  "ProductCreatives": {
+    "title": "Generated Product Creatives",
+    "subtitle": "Transform product photos into professional ads.",
+    "nextStep": "Next Step"
+  },
+  "SizeBox": {
+    "socialMediaSizes": "Social Media Sizes",
+    "socialMediaSubtitle": "Most common sizes for social media advertising.",
+    "postSize": "Post Size",
+    "landscapeSize": "Landscape Size",
+    "storySize": "Story Size",
+    "portraitSize": "Portrait Size",
+    "pinSize": "Pin Size"
+  },
+  "BackgroundImage": {
+    "title": "Choose Background Image",
+    "subtitle": "Generate engagement-focused social media post creatives using our AI.",
+    "inputLabel": "Give your Project Name:",
+    "generating": "Generating",
+    "generate": "Generate",
+    "apiError": "Please ensure image size, background image, and brand are selected.",
+    "unknownError": "An unknown error occurred",
+    "placeholder": "Project name (Optional)"
+  },
+  "GenerateTextForm": {
+    "topicText": "Generate texts with AI ",
+    "subText": "Let our AI write conversion-focused text for your images"
+  },
+  "TemplateImage": {
+    "logoText": "YOUR LOGO",
+    "subtext": "IS HERE",
+    "field1": "Your main headline here!",
+    "field2": "Your punchline is here!",
+    "field3": "Call to action text here!",
+    "placeholder": "Your background image will be here."
+  },
+  "TemplateSocialCreative": {
+    "generatedAdCreativeTitle": "Generated Ad Creative",
+    "generatedAdCreativeSubtitle": "Generate Conversion-focused ad creatives using our unique AI.",
+    "selectCreativeSize": "Select Creative Size",
+    "textOnImage": "Text On Image",
+    "textInputs": "Text Inputs",
+    "chooseBackgroundImage": "Choose Background Image",
+    "selectedImage": "Selected Image",
+    "download": "Download",
+    "edit": "Edit"
+  },
+  "SelectBGImage": {
+    "updateBackgroundImage": "Upload Reference",
+    "dragDrop": "Or drag & drop here.",
+    "yourLibrary": "Your Library",
+    "searchImages": "Search Images",
+    "errors": {
+      "fetchImage": "Failed to fetch image",
+      "fileRead": "Failed to read file"
+    }
+  },
+  "GoogleImageSearch": {
+    "searchPlaceholder": "Search for images...",
+    "search": "Search",
+    "searching": "Searching...",
+    "downloading": "Downloading...",
+    "searchResultAlt": "Search result"
+  },
+  "TextOnImage": {
+    "title": "Text On Image",
+    "subtitle": "Our AI recommends a few texts based on your product and target audience. You may also write your own.",
+    "nextStep": "Next Step"
+  },
+  "BrandSetup": {
+    "title": "Brand Setup",
+    "description": "Provide your brand details once, and let our AI generate on-brand ad assets.",
+    "selectBrand": "Select Brand",
+    "importText": "Import your branding from your website or enter brand details manually.",
+    "creating": "Creating...",
+    "createBrand": "Create Brand",
+    "errors": {
+      "allFieldsRequired": "All fields are required",
+      "failedToCreateBrand": "Failed to create brand",
+      "errorCreatingBrand": "Error creating brand"
+    },
+    "success": {
+      "brandCreated": "Brand created successfully"
+    },
+    "updating": "Updating...",
+    "updateBrand": "Update Brand"
+  },
+  "ImportFromWebsite": {
+    "title": "Import from Website",
+    "urlLabel": "URL:",
+    "urlPlaceholder": "https://example.com",
+    "importing": "Importing...",
+    "importBrand": "Import Brand",
+    "errors": {
+      "enterUrl": "Please enter a URL.",
+      "failedToFetch": "Failed to fetch brand data",
+      "importingData": "Error importing brand data"
+    },
+    "success": {
+      "importedData": "Imported brand data:"
+    }
+  },
+  "BrandColor": {
+    "title": "Select Brand Colors",
+    "brandColor": "Brand Color {{index}}",
+    "additionalColor": "Additional Color {{index}}",
+    "saveAndContinue": "Save and Continue"
+  },
+  "BrandLogo": {
+    "selectBrandLogo": "Select Brand Logo",
+    "uploadDescription": "Upload your logo here. A dark-colored logo with a transparent background is recommended.",
+    "warningText": "A dark-colored logo with a transparent background is recommended.",
+    "saveAndContinue": "Save and Continue",
+    "uploadPlaceholder": "Upload your logo here",
+    "logoSelected": "Logo selected"
+  },
+  "BrandDetails": {
+    "writeBrandName": "Write Brand Name & Description",
+    "saveAndContinue": "Save and Continue",
+    "enterBrandName": "Enter brand name",
+    "enterDescription": "Enter description"
+  },
+  "BackgroundRemoval": {
+    "error": "Please upload an image to proceed."
+  },
+  "DescriptionBox": {
+    "productTitle": "What is Your Product?",
+    "field1Placeholder": "Example: Sports Hoodie",
+    "do": "Do",
+    "doDescription": "Describe your product broadly in one or two words. For example, bottle, hand bag, etc.",
+    "dont": "Don't",
+    "dontDescription": "Describe everything in the image, or mention your brand name.",
+    "tellMore": "Tell our AI more about your product:",
+    "field2Placeholder": "Example: A hoodie that about sport and black..."
+  },
+  "ImageBox": {
+    "applyCrop": "Apply Crop",
+    "cropImage": "Crop Image",
+    "removeBackground": "Remove Background",
+    "deleteImage": "Delete Image"
+  },
+  "AIBackground": {
+    "title": "AI Background Styles",
+    "subtitle": "Choose from a variety of background styles.",
+    "generating": "Generating...",
+    "generate": "Generate",
+    "error": {
+      "selectStyle": "Please select at least one style.",
+      "selectImage": "Please select a background image.",
+      "generateFailed": "Failed to generate product",
+      "unknown": "An unknown error occurred"
+    }
+  },
+  "PresetStyles": {
+    "title": "Preset Styles",
+    "collapse": "Collapse",
+    "seeAll": "See All",
+    "subtitle": "Tested styles for HQ outputs",
+    "filter": "Filter",
+    "searchPlaceholder": "Search",
+    "specialOccasionPlaceholder": "Special Occasion",
+    "aiRecommendations": "AI Recommendations",
+    "mono": "Mono",
+    "interior": "Interior",
+    "showAll": "Show All"
+  },
+  "CustomStyles": {
+    "title": "Custom Styles",
+    "subtitle": "Create your own custom styles",
+    "createButton": "Create",
+    "textareaPlaceholder": "Example: Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+    "characters": "characters",
+    "generateButton": "Generate"
+  },
+  "StyleMatch": {
+    "title": "Style Match",
+    "subtitle": "Upload an image to match",
+    "createButton": "Create",
+    "textareaPlaceholder": "Example: Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+    "characters": "characters",
+    "generateButton": "Generate"
+  },
+  "SelectedStyles": {
+    "title": "Selected Styles",
+    "subtitle": "Select up to 6 styles to generate with"
+  },
+  "AppBar": {
+    "Brands": "Brands",
+    "Projects": "Projects",
+    "CompetitorInsights": "Competitor Insights",
+    "InspirationBank": "Inspiration Bank",
+    "ScoringAI": "Scoring AI",
+    "Settings": "Settings"
+  },
+  "AppBarMain": {
+    "Home": "Home",
+    "Features": "Features",
+    "Pricing": "Pricing",
+    "InspirationBank": "Inspiration Bank",
+    "ScoringAI": "Scoring AI",
+    "Settings": "Settings",
+    "LogIn": "Log In",
+    "TryForFreeNow": "Try For Free Now"
+  },
+  "CreativeEditor": {
+    "title": "Creative Editor",
+    "subtitle": "Edit your creative assets here."
+  }
+}

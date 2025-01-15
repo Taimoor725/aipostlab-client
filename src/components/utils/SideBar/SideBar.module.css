@@ -1,0 +1,73 @@
+.sidebar {
+  width: 250px;
+  height: calc(100vh - 5rem); /* Adjust height */
+  background-color: var(--background-default);
+  max-width: 250px; /* Limit max width */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 1rem 1rem; /* Keep margin on the sides only */
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 1rem;
+  position: fixed;
+  overflow-y: auto;
+}
+
+.logoContainer {
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+.divider {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.navMenu {
+  display: flex;
+  flex-direction: column;
+}
+
+.navLink {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1rem;
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  color: var(--text-primary);
+  text-decoration: none;
+  transition: color 0.3s, background-color 0.3s;
+  border-left: 4px solid transparent;
+  font-weight: 600;
+}
+
+.navLink:hover {
+  color: var(--text-secondary);
+}
+
+.active {
+  color: var(--primary);
+  border-left: 4px solid var(--primary); /* Customize active border color */
+}
+
+.activeIndicator {
+  width: 4px;
+  height: 100%;
+  background-color: transparent;
+}
+
+.icon {
+  font-size: 1.2rem;
+  margin-right: 0.75rem;
+  display: flex;
+  align-items: center;
+}
+
+.label {
+  font-size: 1rem;
+}

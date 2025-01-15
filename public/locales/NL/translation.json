@@ -1,0 +1,415 @@
+{
+  "ProjectTitle": {
+    "dropDownLabel": "Projecten"
+  },
+  "Billing": {
+    "welcome": "Welkom bij Pixeladd.com",
+    "description": "Gebruik Pixeladd.com in uw voorkeurstaal. De vertalingen worden gedaan door AI en kunnen enkele onnauwkeurigheden bevatten.",
+    "selectLanguage": "Selecteer Taal",
+    "billingInformation": "Factuurinformatie",
+    "billingDescription": "U kunt uw factuurinformatie wijzigen in het onderstaande veld.",
+    "fullName": "Volledige naam",
+    "email": "E-mail",
+    "companyOptional": "Bedrijf (Optioneel)",
+    "euVat": "EU BTW (Bijv: FR123456789)",
+    "save": "Opslaan"
+  },
+  "Card": {
+    "cardInformation": "Kaartinformatie",
+    "cardDescription": "U kunt uw kaartinformatie wijzigen in het onderstaande veld.",
+    "cardNumber": "Kaartnummer",
+    "expiryDate": "MM/JJ",
+    "cvc": "CVC",
+    "save": "Opslaan"
+  },
+  "Password": {
+    "changePassword": "Wachtwoord Wijzigen",
+    "nextLogin": "Bij uw volgende aanmelding gebruikt u dit nieuwe wachtwoord",
+    "newPassword": "Nieuw Wachtwoord",
+    "confirmNewPassword": "Bevestig Nieuw Wachtwoord",
+    "update": "Bijwerken",
+    "updating": "Bijwerken..."
+  },
+  "PersonalInformation": {
+    "changePersonalInformation": "Persoonlijke Informatie Wijzigen",
+    "confirmEmail": "Als u het e-mailadres wijzigt, zorg er dan voor dat u het daarna bevestigt.",
+    "fullName": "Volledige naam",
+    "email": "E-mail",
+    "update": "Bijwerken",
+    "updating": "Bijwerken..."
+  },
+  "Language": {
+    "Turkish": "Turks (TR)",
+    "English": "Engels (US)",
+    "Dutch": "Nederlands (NL)"
+  },
+  "Settings": {
+    "title": "Instellingen",
+    "subtitle": "Beheer uw accountgegevens, factuurinformatie en pakket.",
+    "account": "Account",
+    "billing": "Facturering"
+  },
+  "Home": {
+    "title": "AI-tool voor adverteren",
+    "subTitle1": "Genereer ",
+    "boldPart": "banners, teksten, fotoshoots",
+    "subTitle2": "Die beter presteren dan die van uw concurrenten.",
+    "buttonText": "Probeer nu gratis"
+  },
+  "AIAssets": {
+    "title": "AI gegenereerde middelen"
+  },
+  "Timeline": {
+    "brand": "Merk",
+    "size": "Grootte",
+    "texts": "Teksten",
+    "image": "Afbeelding"
+  },
+  "Features": {
+    "title": "Uw alles-in-één creatieve marketingontwerpcentrum",
+    "subTitle1": "Maak creatieve en effectieve advertentie-assets, verkrijg bruikbare inzichten om uw campagnes te optimaliseren, analyseer de prestaties van concurrenten en beoordeel uw creativiteit voordat u media-uitgaven doet - allemaal op één platform.",
+    "socialCreatives": {
+      "title": "Sociale Creatieven",
+      "description": "Maak unieke, commercieel veilige en ultra realistische stockfoto's in elke stijl met een eenvoudige prompt"
+    },
+    "productCreatives": {
+      "title": "Product Creatieven",
+      "description": "Verander productfoto's onmiddellijk in professionele shoots door een enkele afbeelding te uploaden"
+    }
+  },
+  "Pricing": {
+    "title": "Prijzen die meer waarde leveren",
+    "subTitle1": "Of u nu een startup, bureau of onderneming bent, onze prijzen zijn zo samengesteld dat uw investering direct rendeert.",
+    "starterPlans": {
+      "title": "Starter Plannen",
+      "description1": "De alles-in-één oplossing die al het werk doet en echte groei stimuleert voor kleine bedrijven.",
+      "description2": "Bespaar $240 per jaar",
+      "features": {
+        "downloads": "Downloads: 10",
+        "brandLimit": "Merk Limiet: 1",
+        "allAIAssets": "Alle AI-middelen Ontgrendeld",
+        "unlimitedGenerations": "Onbeperkte Generaties",
+        "textGeneratorAI": "Tekstgenerator AI",
+        "adPlatformIntegrations": "Advertentieplatform Integraties",
+        "unlimitedPhotos": "Onbeperkte Foto's door iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Toegang tot Concurrentie-inzichten",
+        "totalUsers": "Totaal Gebruikers: 2"
+      }
+    },
+    "proPlans": {
+      "title": "Pro Plannen",
+      "description1": "Ontgrendel Pro-functies om uw merken om te vormen tot conversiekrachtcentrales.",
+      "description2": "Bespaar $1,494 per jaar",
+      "features": {
+        "downloads": "Downloads: 100",
+        "brandLimit": "Merk Limiet: 5",
+        "allAIAssets": "Alle AI-middelen Ontgrendeld",
+        "unlimitedGenerations": "Onbeperkte Generaties",
+        "textGeneratorAI": "Tekstgenerator AI",
+        "adPlatformIntegrations": "Advertentieplatform Integraties",
+        "unlimitedPhotos": "Onbeperkte Foto's door iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Toegang tot Concurrentie-inzichten",
+        "totalUsers": "Totaal Gebruikers: 2"
+      }
+    },
+    "ultimatePlans": {
+      "title": "Ultimate Plannen",
+      "description1": "Ontketen het potentieel van uw marketingteam met onze meest uitgebreide AI-oplossing.",
+      "description2": "Bespaar $3600 per jaar",
+      "features": {
+        "downloads": "Downloads: 500",
+        "brandLimit": "Merk Limiet: 50",
+        "allAIAssets": "Alle AI-middelen Ontgrendeld",
+        "unlimitedGenerations": "Onbeperkte Generaties",
+        "textGeneratorAI": "Tekstgenerator AI",
+        "adPlatformIntegrations": "Advertentieplatform Integraties",
+        "unlimitedPhotos": "Onbeperkte Foto's door iStock",
+        "insightAI": "Insight AI",
+        "competitorInsights": "Toegang tot Concurrentie-inzichten",
+        "totalUsers": "Totaal Gebruikers: 2"
+      }
+    }
+  },
+  "Login": {
+    "logoAlt": "Uw Merkl Logo",
+    "title": "Inloggen",
+    "subTitle": "Naar de toekomst van marketing",
+    "or": "of",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Wachtwoord",
+    "forgotPassword": "Wachtwoord vergeten?",
+    "loginButton": "Inloggen",
+    "noAccount": "Heb je geen account?",
+    "signUp": "Aanmelden",
+    "invalidEmail": "Ongeldig e-mailadres",
+    "invalidPassword": "Wachtwoord moet minimaal 6 tekens bevatten",
+    "loginFailed": "Inloggen mislukt",
+    "invalidCredentials": "Ongeldig e-mailadres of wachtwoord"
+  },
+  "Signup": {
+    "title": "AI-tool voor adverteren!",
+    "subtitle": "Meld je aan en ontvang 10 gratis credits",
+    "fullNamePlaceholder": "Volledige naam",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Wachtwoord",
+    "invalidEmail": "Ongeldig e-mailadres",
+    "invalidPassword": "Wachtwoord moet minimaal 6 tekens bevatten",
+    "signupFailed": "Aanmelding mislukt",
+    "agreementText": "Door te registreren gaat u akkoord met onze",
+    "termsOfUse": "gebruiksvoorwaarden",
+    "signUpButton": "Meld je aan en ontvang 10 gratis credits",
+    "haveAccount": "Heb je een account?",
+    "login": "Inloggen"
+  },
+  "Payment": {
+    "logoAlt": "Uw Merkl Logo",
+    "paymentDetails": "Betalingsgegevens",
+    "trialInfo": "Dit is om uw account te verifiëren. U wordt niet in rekening gebracht tijdens uw 7 dagen gratis proefperiode.",
+    "cardHolderName": "Volledige naam kaarthouder",
+    "cardNumber": "Kaartnummer",
+    "expiryDate": "MM / JJ",
+    "cvv": "CVV",
+    "country": "Land (bijv. Turkije)",
+    "securityInfo": "Versleuteld, Veilig en Veilig",
+    "startTrialButton": "Start Gratis Proefperiode",
+    "haveAccount": "Heeft u een account?",
+    "login": "Inloggen"
+  },
+  "NewProject": {
+    "projectListTitle": "Projectlijst",
+    "projectListSubtitle": "Blader door uw projecten, filter indien nodig op type.",
+    "createProjectTitle": "Maak een Project",
+    "createProjectDescription": "Klik hier om nieuwe middelen te genereren met behulp van onze kunstmatige intelligentie."
+  },
+  "AIGenerated": {
+    "title": "AI gegenereerde activaselectie",
+    "subtitle": "Selecteer het type asset dat u wilt genereren met onze kunstmatige intelligentie",
+    "socialCreatives": {
+      "title": "Sociale Creatieven",
+      "description": "Maak unieke, commercieel veilige en ultra realistische stockfoto's in elke stijl met een eenvoudige prompt"
+    },
+    "adCreatives": {
+      "title": "Advertentie Creatieven",
+      "description": "Genereer hoog converterende advertenties door eenvoudig een afbeelding van uw product of dienst te uploaden"
+    },
+    "productCreatives": {
+      "title": "Product Creatieven",
+      "description": "Verander productfoto's onmiddellijk in professionele shoots door een enkele afbeelding te uploaden"
+    }
+  },
+  "SocialCreatives": {
+    "title": "Gegenereerde Sociale Creatieven",
+    "subtitle": "Genereer engagementgerichte social media post creatieven met behulp van onze AI.",
+    "nextStep": "Volgende Stap"
+  },
+  "SizeBox": {
+    "socialMediaSizes": "Social Media Maten",
+    "socialMediaSubtitle": "Meest voorkomende maten voor social media-advertenties.",
+    "postSize": "Post Grootte",
+    "landscapeSize": "Landschap Grootte",
+    "storySize": "Verhaal Grootte",
+    "portraitSize": "Portret Grootte",
+    "pinSize": "Pin Grootte"
+  },
+  "BackgroundImage": {
+    "title": "Kies Achtergrondafbeelding",
+    "subtitle": "Genereer engagementgerichte social media post creatieven met behulp van onze AI.",
+    "inputLabel": "Geef uw Projectnaam:",
+    "generating": "Genereren",
+    "generate": "Genereer",
+    "apiError": "Zorg ervoor dat de afbeeldingsgrootte, achtergrondafbeelding en merk zijn geselecteerd.",
+    "unknownError": "Er is een onbekende fout opgetreden",
+    "placeholder": "Projectnaam (Optioneel)"
+  },
+  "GenerateTextForm": {
+    "topicText": "Genereer teksten met AI",
+    "subText": "Laat onze AI conversiegerichte tekst voor uw afbeeldingen schrijven"
+  },
+  "TemplateImage": {
+    "logoText": "UW LOGO",
+    "subtext": "IS HIER",
+    "field1": "Uw hoofdheadline hier!",
+    "field2": "Uw slogan is hier!",
+    "field3": "Call to action tekst hier!",
+    "placeholder": "Uw achtergrondafbeelding komt hier."
+  },
+  "SelectBGImage": {
+    "updateBackgroundImage": "Upload Referentie",
+    "dragDrop": "Of sleep hierheen.",
+    "searchImages": "Afbeeldingen Zoeken",
+    "yourLibrary": "Uw Bibliotheek",
+    "errors": {
+      "fetchImage": "Fout bij het ophalen van de afbeelding.",
+      "fileRead": "Fout bij het lezen van het bestand."
+    }
+  },
+  "ImageBox": {
+    "applyCrop": "Toepassen Krop",
+    "cropImage": "Afbeelding Bijsnijden",
+    "removeBackground": "Achtergrond Verwijderen",
+    "deleteImage": "Afbeelding Verwijderen"
+  },
+  "GoogleImageSearch": {
+    "searchPlaceholder": "Zoek naar afbeeldingen...",
+    "search": "Zoeken",
+    "searching": "Zoeken...",
+    "downloading": "Downloaden...",
+    "searchResultAlt": "Zoekresultaat"
+  },
+  "TextOnImage": {
+    "title": "Tekst Op Afbeelding",
+    "subtitle": "Onze AI beveelt enkele teksten aan op basis van uw product en doelgroep. U kunt ook uw eigen tekst schrijven.",
+    "nextStep": "Volgende Stap"
+  },
+  "BrandSetup": {
+    "title": "Merk Setup",
+    "description": "Geef uw merkgegevens eenmalig op en laat onze AI merkgebonden advertentie-assets genereren.",
+    "selectBrand": "Selecteer Merk",
+    "importText": "Importeer uw branding van uw website of voer handmatig merkgegevens in.",
+    "creating": "Aanmaken...",
+    "createBrand": "Merk Aanmaken",
+    "errors": {
+      "allFieldsRequired": "Alle velden zijn verplicht",
+      "failedToCreateBrand": "Merk aanmaken mislukt",
+      "errorCreatingBrand": "Fout bij het aanmaken van merk"
+    },
+    "success": {
+      "brandCreated": "Merk succesvol aangemaakt"
+    },
+    "updating": "Bijwerken...",
+    "updateBrand": "Merk Bijwerken"
+  },
+  "ImportFromWebsite": {
+    "title": "Importeer van Website",
+    "urlLabel": "URL:",
+    "urlPlaceholder": "https://example.com",
+    "importing": "Importeren...",
+    "importBrand": "Merk Importeren",
+    "errors": {
+      "enterUrl": "Voer een URL in.",
+      "failedToFetch": "Kan merkgegevens niet ophalen",
+      "importingData": "Fout bij het importeren van merkgegevens"
+    },
+    "success": {
+      "importedData": "Geïmporteerde merkgegevens:"
+    }
+  },
+  "BrandColor": {
+    "title": "Selecteer Merk Kleuren",
+    "brandColor": "Merk Kleur {{index}}",
+    "additionalColor": "Aanvullende Kleur {{index}}",
+    "saveAndContinue": "Opslaan en Doorgaan"
+  },
+  "BrandLogo": {
+    "selectBrandLogo": "Selecteer Merklogo",
+    "uploadDescription": "Upload hier uw logo. Een donkergekleurd logo met een transparante achtergrond wordt aanbevolen.",
+    "warningText": "Een donkergekleurd logo met een transparante achtergrond wordt aanbevolen.",
+    "saveAndContinue": "Opslaan en Doorgaan",
+    "uploadPlaceholder": "Upload hier uw logo",
+    "logoSelected": "Logo geselecteerd"
+  },
+  "BrandDetails": {
+    "writeBrandName": "Schrijf Merknaam & Beschrijving",
+    "saveAndContinue": "Opslaan en Doorgaan",
+    "enterBrandName": "Voer merknaam in",
+    "enterDescription": "Voer beschrijving in"
+  },
+  "TemplateSocialCreative": {
+    "generatedAdCreativeTitle": "Gegenereerde Advertentie Creatieven",
+    "generatedAdCreativeSubtitle": "Genereer conversiegerichte advertentie creatieven met behulp van onze unieke AI.",
+    "selectCreativeSize": "Selecteer Creatieve Grootte",
+    "textOnImage": "Tekst Op Afbeelding",
+    "textInputs": "Tekstinvoeren",
+    "chooseBackgroundImage": "Kies Achtergrondafbeelding",
+    "selectedImage": "Geselecteerde Afbeelding",
+    "download": "Downloaden",
+    "edit": "Bewerken"
+  },
+  "ProductCreatives": {
+    "title": "Gegenereerde Product Creatieven",
+    "subtitle": "Transformeer productfoto's in professionele advertenties.",
+    "nextStep": "Volgende Stap"
+  },
+  "BackgroundRemoval": {
+    "error": "Upload een afbeelding om door te gaan."
+  },
+  "DescriptionBox": {
+    "productTitle": "Wat is uw product?",
+    "field1Placeholder": "Voorbeeld: Sport Hoodie",
+    "do": "Doen",
+    "doDescription": "Beschrijf uw product breed in één of twee woorden. Bijvoorbeeld, fles, handtas, enz.",
+    "dont": "Niet doen",
+    "dontDescription": "Beschrijf alles in de afbeelding, of vermeld uw merknaam.",
+    "tellMore": "Vertel onze AI meer over uw product:",
+    "field2Placeholder": "Voorbeeld: Een hoodie die over sport en zwart gaat..."
+  },
+  "AIBackground": {
+    "title": "AI Achtergrondstijlen",
+    "subtitle": "Kies uit verschillende achtergrondstijlen.",
+    "generating": "Genereren...",
+    "generate": "Genereer",
+    "error": {
+      "selectStyle": "Selecteer alstublieft ten minste één stijl.",
+      "selectImage": "Selecteer alstublieft een achtergrondafbeelding.",
+      "generateFailed": "Product genereren mislukt",
+      "unknown": "Er is een onbekende fout opgetreden"
+    }
+  },
+  "PresetStyles": {
+    "title": "Vooraf ingestelde stijlen",
+    "collapse": "Inklappen",
+    "seeAll": "Alles Zien",
+    "subtitle": "Geteste stijlen voor HQ-uitgangen",
+    "filter": "Filter",
+    "searchPlaceholder": "Zoeken",
+    "specialOccasionPlaceholder": "Speciale Gelegenheid",
+    "aiRecommendations": "AI-aanbevelingen",
+    "mono": "Mono",
+    "interior": "Interieur",
+    "showAll": "Alles Tonen"
+  },
+  "CustomStyles": {
+    "title": "Aangepaste Stijlen",
+    "subtitle": "Maak je eigen aangepaste stijlen",
+    "createButton": "Maken",
+    "textareaPlaceholder": "Voorbeeld: Lorem Ipsum is gewoon dummy tekst van de drukkerij- en zetterijindustrie...",
+    "characters": "tekens",
+    "generateButton": "Genereer"
+  },
+  "StyleMatch": {
+    "title": "Stijl Match",
+    "subtitle": "Upload een afbeelding om te matchen",
+    "createButton": "Maken",
+    "textareaPlaceholder": "Voorbeeld: Lorem Ipsum is gewoon dummy tekst van de drukkerij- en zetterijindustrie...",
+    "characters": "tekens",
+    "generateButton": "Genereer"
+  },
+  "SelectedStyles": {
+    "title": "Geselecteerde Stijlen",
+    "subtitle": "Selecteer maximaal 6 stijlen om mee te genereren"
+  },
+  "AppBar": {
+    "Brands": "Merken",
+    "Projects": "Projecten",
+    "CompetitorInsights": "Concurrentie-inzichten",
+    "InspirationBank": "Inspiratiebank",
+    "ScoringAI": "Scoring AI",
+    "Settings": "Instellingen"
+  },
+  "AppBarMain": {
+    "Home": "Home",
+    "Features": "Kenmerken",
+    "Pricing": "Prijsstelling",
+    "InspirationBank": "Inspiratiebank",
+    "ScoringAI": "Scoring AI",
+    "Settings": "Instellingen",
+    "LogIn": "Inloggen",
+    "TryForFreeNow": "Probeer nu gratis"
+  },
+  "CreativeEditor": {
+    "title": "Creatieve Editor",
+    "subtitle": "Bewerk hier uw creatieve middelen."
+  }
+}

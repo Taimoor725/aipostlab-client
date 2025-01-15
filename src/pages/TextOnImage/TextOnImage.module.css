@@ -1,0 +1,17 @@
+.contentContainer {
+  display: flex;
+  height: auto;
+  min-height: 100vh;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}

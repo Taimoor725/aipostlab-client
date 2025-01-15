@@ -1,0 +1,35 @@
+* {
+  font-family: Poppins, sans-serif;
+}
+
+.appContainer {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  background-color: var(--background-paper);
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: hidden;
+}
+
+.withSidebar {
+  margin-left: 0px; /* Sidebar width */
+}
+
+.pageContent {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.fullPageContent {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

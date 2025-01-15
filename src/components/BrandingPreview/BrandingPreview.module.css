@@ -1,0 +1,68 @@
+/* Preview Container */
+.previewContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--background-paper);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: calc(100% - 4.5rem);
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff; /* White background for logo area */
+  padding: 1.5rem; /* Space around the logo */
+  border-radius: 12px; /* Rounded corners for a modern look */
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12); /* Soft shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+.logoContainer:hover {
+  transform: scale(1.05); /* Slight scale up on hover */
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.15); /* Elevated shadow on hover */
+}
+
+.logo {
+  max-width: 80px; /* Control logo size */
+  max-height: 80px;
+  object-fit: contain; /* Ensures logo is fully contained within its box */
+  margin-bottom: 0.8rem;
+}
+
+.brandName {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333333; /* Darker text color for contrast */
+  text-align: center;
+  margin-top: 0.5rem;
+  text-transform: uppercase; /* Modern, bold look */
+  letter-spacing: 0.5px; /* Slight spacing for a clean finish */
+}
+
+/* Color Palette */
+.colorPalette {
+  display: flex;
+  gap: 0.8rem; /* Space between color circles */
+  justify-content: center;
+  padding: 1rem;
+}
+
+.colorCircle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; /* Perfect circle for color indicators */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  border: 2px solid #ffffff; /* Light border for definition */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.colorCircle:hover {
+  transform: scale(1.1); /* Slightly enlarges on hover */
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15); /* Elevates shadow on hover */
+}

@@ -1,0 +1,58 @@
+.container {
+  border: 1px solid black;
+  border-radius: 16px;
+  background-color: var(--background-paper);
+  padding: 16px;
+  cursor: pointer;
+  width: 500px;
+  padding-left: 32px;
+  height: auto;
+}
+
+.iconWithText {
+  display: flex;
+  align-items: center;
+}
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0px !important;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 8px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 0; /* Ensure no gap */
+}
+
+.subtitle {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 0px !important; /* Reduce gap */
+  margin-bottom: 20px; /* Ensure no gap */
+}
+
+.iconPurple {
+  margin-right: 16px;
+  color: var(--primary);
+  border: 3px solid var(--primary);
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.stylesBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 0px;
+  margin-right: 12px;
+}
+
+.stylesBoxAll {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}

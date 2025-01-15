@@ -1,0 +1,28 @@
+.inputContainer {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #333;
+  resize: none; /* Prevent resizing to keep it consistent */
+}
+
+.input::placeholder,
+.textarea::placeholder {
+  color: #888; /* Light black placeholder color */
+}
+
+.charCount {
+  position: absolute;
+  bottom: 8px;
+  right: 10px;
+  font-size: 0.75rem;
+  color: #888;
+}

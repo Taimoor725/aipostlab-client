@@ -1,0 +1,39 @@
+.contentContainer {
+  display: flex;
+
+  min-height: 600px;
+  background: var(--background-default);
+  overflow: hidden;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 12px;
+}
+
+.backgroundImageContainer {
+  display: flex;
+  justify-content: left;
+  gap: 24px;
+  margin-left: 48px;
+  margin-top: 6px;
+  align-items: top;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.buttonWrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  margin-bottom: 1rem;
+}
+
+.errorText {
+  color: red;
+  font-size: 1rem;
+  margin-left: 1rem;
+}

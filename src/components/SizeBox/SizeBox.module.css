@@ -1,0 +1,45 @@
+.contentContainer {
+  display: flex;
+  height: 38vh;
+  min-height: 380px;
+  background: white;
+  overflow: hidden;
+  margin-left: 48px;
+  margin-right: 24px;
+  flex-direction: column;
+  margin-top: 16px;
+  border-radius: 24px;
+  border: 1px solid black;
+}
+
+.headText {
+  margin-top: 24px;
+  margin-left: 48px;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+}
+.subText {
+  margin-top: 4px;
+  margin-left: 48px;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: left;
+}
+
+.gridStyles {
+  display: flex;
+  margin-left: 24px;
+}
+
+.titleContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 48px;
+}
+
+.rightTitleContainer {
+  display: flex;
+  gap: 8px;
+}
